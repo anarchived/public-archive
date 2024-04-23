@@ -1,36 +1,36 @@
 # Atrium
 
 ## Members
--Arrow25 / \_\_59
--Willow0092
--NIGHTRUNNER_
--supersilver230
--10K10K
--BloodyTalon0050
--TransAreObjects
--proygon
--chomp4 / \_ch0mp\_
--MrFast_
--Buddward
--\_NotRacc\_
--bob\_dole
--Diablonic
--Pr3roxDLC
--GodFrog32757
--Krazzzzymonkey
--PixelatedBrayden
--bumdole
--NotMysttic
+- Arrow25 / \_\_59
+- Willow0092
+- NIGHTRUNNER\_
+- supersilver230
+- 10K10K
+- BloodyTalon0050
+- TransAreObjects
+- proygon
+- chomp4 / \_ch0mp\_
+- MrFast\_
+- Buddward
+- \_NotRacc\_
+- bob\_dole
+- Diablonic
+- Pr3roxDLC
+- GodFrog32757
+- Krazzzzymonkey
+- PixelatedBrayden
+- bumdole
+- NotMysttic
 
 ## Status
 Griefed
 
 ## Location
--World: Overworld
--Position: 29869921 72 -29790848
+- World: Overworld
+- Position: 29869921 72 -29790848
 
 ## Archived Dates
--05-12-2021
+- 05-12-2021
 
 ## Description
 In March of 2021, the players Vhcvssc and Willow0092 decided to create a base together.\
@@ -52,5 +52,5 @@ But the real nail in the coffin of Atrium was when members began fighting. This 
 Though Atrium was great, Zoe Corp went on to create many more great bases.
 
 ## Sources
--supersilver230 (taken from [his video](https://www.youtube.com/watch?v=UpWjITVjIzI "his video"), slightly modified transcript)
--crayne
+- supersilver230 (taken from [his video](https://www.youtube.com/watch?v=UpWjITVjIzI "his video"), slightly modified transcript)
+- crayne
