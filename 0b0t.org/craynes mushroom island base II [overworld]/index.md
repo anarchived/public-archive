@@ -5,8 +5,8 @@
 ## Status
 
 ## Location
--World: Overworld
--Position: 16444874 87 728563
+- World: Overworld
+- Position: 16444874 87 728563
 
 ## Archived Dates
 

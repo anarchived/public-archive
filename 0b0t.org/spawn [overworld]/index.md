@@ -5,8 +5,8 @@
 ## Status
 
 ## Location
--World: Overworld
--Position: 0 255 0
+- World: Overworld
+- Position: 0 255 0
 
 ## Archived Dates
 

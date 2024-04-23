@@ -5,8 +5,8 @@
 ## Status
 
 ## Location
--World: End
--Position: -184456 60 -302196.5
+- World: End
+- Position: -184456 60 -302196.5
 
 ## Archived Dates
 

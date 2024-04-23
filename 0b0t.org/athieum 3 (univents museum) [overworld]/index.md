@@ -1,34 +1,34 @@
 # Athieum 3
 
 ## Members
--Alex (univent / Rick)
--crxyne
--OsamahFTW
--TimJongUn_
--Amrit1
--Ethereas
--Thoriii
+- Alex (univent / Rick)
+- crxyne
+- OsamahFTW
+- TimJongUn_
+- Amrit1
+- Ethereas
+- Thoriii
 
 ## Visitors
--0bOp
--Franczak
--Deucela_sama
--Juzmusterrizi
--24_mine
--LilGanja
--TheTroll2001
--pcpbcb
+- 0bOp
+- Franczak
+- Deucela_sama
+- Juzmusterrizi
+- 24_mine
+- LilGanja
+- TheTroll2001
+- pcpbcb
 
 ## Status
 Griefed
 
 ## Location
--World: Overworld
--Position: 334104 60 329747
+- World: Overworld
+- Position: 334104 60 329747
 
 ## Archived Dates
--10-10-2021
--04-21-2024
+- 10-10-2021
+- 04-21-2024
 
 ## Description
 Part of a series of space valkria themed museums, this being the 3rd one that Alex built; The majority of the active playerbase at the time had a presence here.
