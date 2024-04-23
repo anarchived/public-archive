@@ -5,4 +5,4 @@ The server started in July 2016 as an alternative to 2b2t without the queue. Aft
 \
 Currently the server is maintained by A Server Owner For Fun. The world size is > 4.9 TB with > 175,000 players.\
 \
-(Taken from [the 0b0t website](https://0b0t.org "the 0b0t website"), slightly modified. Last updated 04-09-2024)
+(Taken from [the 0b0t website](https://0b0t.org "the 0b0t website"), slightly modified. Last updated 04/09/2024)
