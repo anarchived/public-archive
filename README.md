@@ -43,6 +43,8 @@ Closely follow this format when writing information. To see an example, look at 
 - Capitalize All Words In The Base Name.
 - Put question marks, explicit remarks, or an all-caps TODO for information you don't know or haven't gotten yet.
 - Include all sources you know of. Don't be afraid to credit yourself here, so people know you provided this information.
+- Don't include region files. Use the discord server for that and open a ticket there to provide your actual world-downloadi (if applicable)
+- Be as objective as possible. Don't spread lies.
 
 When you are finished with your information, follow the directory structure conventions:
 ```sh
