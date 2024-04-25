@@ -22,7 +22,7 @@
 - PayTheParrot
 
 ## Status
-- griefed by GoogleComStuff
+- intact
 
 ## Location
 - World: Overworld
