@@ -7,7 +7,7 @@
 - freelees
 
 ## Status
--intact
+- griefed
 
 ## Location
 - World: Overworld
