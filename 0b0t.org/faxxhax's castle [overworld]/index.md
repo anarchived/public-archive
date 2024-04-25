@@ -4,7 +4,7 @@
 - FaxxHax (this account doesn't seem to exist?)
 
 ## Status
-- intact
+- griefed
 
 ## Location
 - World: Overworld
