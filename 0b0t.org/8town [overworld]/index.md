@@ -1,21 +1,21 @@
 # 8Town
 
 ## Members
--BlxckFalcon / volide
--smitty
--atpyt/hzot
--TheBank
--Poison
--Amnesiasilence
--antonymph
--ThisWinter
--Thoriii
--Blasphemies
--Altazium
--Alexattacker2
--macecan
--ParanomalShrimp
--Futur5
+- BlxckFalcon / volide
+- smitty
+- atpyt/hzot
+- TheBank
+- Poison
+- Amnesiasilence
+- antonymph
+- ThisWinter
+- Thoriii
+- Blasphemies
+- Altazium
+- Alexattacker2
+- macecan
+- ParanomalShrimp
+- Futur5
 - Visited By -
 - 0bOp
 - Synio
