@@ -3,6 +3,7 @@
 ## Members
 
 ## Status
+- griefed
 
 ## Location
 - World: End
