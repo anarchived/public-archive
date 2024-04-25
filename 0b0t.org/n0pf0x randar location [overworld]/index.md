@@ -1,11 +1,10 @@
 # n0pf0x Randar Location
 
 ## Members
-- bluejay173
-- pcm1k (n0pf0x)
+- pcm1k (n0pf0x) / bluejay173
 
 ## Status
-- griefed
+- intact (?)
 
 ## Location
 - World: Overworld
