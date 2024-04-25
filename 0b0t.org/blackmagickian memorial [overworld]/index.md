@@ -18,7 +18,7 @@
 - Avoxy1
 - \_Lostforreal_
 - Thoriiii
-- ~~_CrunchyRoll_~~
+- ~~\_CrunchyRoll_~~
 
 ## Status
 - intact
