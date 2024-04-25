@@ -5,7 +5,7 @@
 - pcm1k (n0pf0x)
 
 ## Status
-- intact
+- griefed
 
 ## Location
 - World: Overworld
