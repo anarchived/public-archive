@@ -8,7 +8,7 @@
 - synio
 
 ## Status
-fully intact
+- griefed
 
 ## Location
 - World: Overworld
