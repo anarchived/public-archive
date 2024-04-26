@@ -26,6 +26,7 @@ A base founded by Thori on 08/31/2021. The base was griefed by xPRITZKERx in 202
 - Est.: 08/31/2021
 - Incomplete Information
 - Missing Archivals
+- Icon: orange_terracotta
 
 ## Sources
 - Thori
