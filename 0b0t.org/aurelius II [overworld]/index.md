@@ -34,5 +34,10 @@ Griefed
 
 ## Description
 
+## Tags
+- Est.: 08/03/2022
+- Missing Archivals
+- Incomplete Information
+
 ## Sources
 - Almost (provided the download, did not download the base)
