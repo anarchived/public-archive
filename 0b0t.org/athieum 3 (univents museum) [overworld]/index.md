@@ -38,6 +38,8 @@ Unfortunately, the base was griefed so they are no longer where they used to be.
 - Has Container Data
 - Has Entity Data
 - Est.: 01/21/2021
+- Icon: bookshelf
+- Glint
 
 ## Sources
 - Alex (original info)
