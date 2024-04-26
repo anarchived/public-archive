@@ -18,5 +18,9 @@ A town right next to the southern canal, made without any duped items. Created b
 ## Additional Info
 This was griefed to create a bigger base.
 
+## Tags
+- Has Container Data
+- Missing Archivals
+
 ## Sources
 - Liketinos2341
