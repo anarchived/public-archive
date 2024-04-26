@@ -38,6 +38,7 @@ The base was griefed by GoogleComStuff, due to apparently - one of his friends b
 ## Tags
 - Explicit Content
 - Hateful Content
+- Has Entity Data
 - Missing Archivals
 - Est.: 07/25/2023
 
