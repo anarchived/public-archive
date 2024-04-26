@@ -15,5 +15,11 @@ Griefed
 A small base made by jakeup, far out, near the worldborder on a big island. 
 The base did not last long sadly, and the hours of work went to waste.
 
+## Tags
+- Incomplete Information
+- Missing Archivals
+- Est.: 2021
+- Icon: obsidian
+
 ## Sources
 - crayne
