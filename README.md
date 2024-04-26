@@ -18,10 +18,6 @@ Griefed? Leaked? Intact? Other info?
 - World: Overworld / Nether / End
 - Position: X Y Z
 
-## Archived Dates
-- Only the date of when the wdl was taken is needed here
-- MM-DD-YYYY
-
 ## Description
 Write your description here. Add history or noteful events if needed
 
@@ -38,7 +34,7 @@ Closely follow this format when writing information. To see an example, look at 
 ## Guidelines
 - Try to include a *precise* location, not just a general X / Z of where the base approximately is located. This position is used by the anarchived plugin to decide where players should be teleported when vising a base.
 - Don't include commas in coordinates. Follow the format X Y Z
-- Follow the date format MM-DD-YYYY for archived dates, use slashes MM/DD/YYYY anywhere else.
+- Follow the date format MM/DD/YYYY for any dates.
 - Additional Info is not required.
 - Capitalize All Words In The Base Name.
 - Put question marks, explicit remarks, or an all-caps TODO for information you don't know or haven't gotten yet.
