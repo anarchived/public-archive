@@ -7,6 +7,7 @@
 - chose_007
 - xPRITZKERx
 - Ethereas
+- Synio
 
 ## Status
 Griefed
@@ -16,5 +17,11 @@ Griefed
 - Position: 619760.5 60 -200624.5
 
 ## Description
+
+## Tags
+- Icon: quartz_pillar
+- Glint
+- Incomplete Information
+- Missing Archivals
 
 ## Sources
