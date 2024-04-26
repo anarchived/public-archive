@@ -8,6 +8,7 @@
 - xPRITZKERx
 - Ethereas
 - Synio
+- brickzebra
 
 ## Status
 Griefed
