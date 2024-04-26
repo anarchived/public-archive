@@ -21,7 +21,7 @@ Griefed
 The Capital lasted around than a year and a half. After brickzebra's arrival, things went downhill and all planning stopped. He leaked the base to shotz (screensharing coordinates in a vc), which eventually lead to the grief on 07/14/2022.
 
 ## Additional Info
-The base contains several placed illegals such as bedrock or end portals.
+The base contains several placed illegals such as bedrock or end portals. There also were a few more instances of admin abuse, but nothing too outrageous.
 
 ## Tags
 - Icon: quartz_pillar
