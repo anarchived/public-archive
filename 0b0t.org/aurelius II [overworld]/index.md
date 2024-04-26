@@ -38,6 +38,7 @@ Griefed
 - Est.: 08/03/2022
 - Missing Archivals
 - Incomplete Information
+- Icon: spruce_log
 
 ## Sources
 - Almost (provided the download, did not download the base)
