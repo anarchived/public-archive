@@ -18,6 +18,10 @@ A random mess of builds that are linked together with a road build on the floor.
 The base was moved due to antonymph screensharing coordinates to Diskutabel.\
 This is the spot where antonymph's ic backdoor occurred, and was built around 30k away from waterloo 1 & 2, alongside the 11x7 location.
 
+## Tags
+- Has Entity Data
+- Has Container Data
+
 ## Sources
 - crayne
 - antonymph
