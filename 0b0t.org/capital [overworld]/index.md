@@ -18,6 +18,10 @@ Griefed
 - Position: 619760.5 60 -200624.5
 
 ## Description
+The Capital lasted around than a year and a half. After brickzebra's arrival, things went downhill and all planning stopped. He leaked the base to shotz (screensharing coordinates in a vc), which eventually lead to the grief on 07/14/2022.
+
+## Additional Info
+The base contains several placed illegals such as bedrock or end portals.
 
 ## Tags
 - Icon: quartz_pillar
@@ -26,3 +30,4 @@ Griefed
 - Missing Archivals
 
 ## Sources
+- Thoriiii
