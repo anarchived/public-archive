@@ -18,5 +18,10 @@ A town right next to the southern canal, made without any duped items. Created b
 ## Additional Info
 This was griefed to create a bigger base.
 
+## Tags
+- Has Container Data
+- Missing Archivals
+- Icon: cobblestone
+
 ## Sources
 - Liketinos2341

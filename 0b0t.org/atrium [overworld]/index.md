@@ -14,12 +14,14 @@
 - Buddward
 - \_NotRacc\_
 - bob\_dole
+
+## Visitors
 - Diablonic
 - Pr3roxDLC
 - GodFrog32757
 - Krazzzzymonkey
 - PixelatedBrayden
-- bumdole
+- bum\_dole / INTERNATIXNAL (?)
 - NotMysttic
 
 ## Status
@@ -28,9 +30,6 @@ Griefed
 ## Location
 - World: Overworld
 - Position: 29869921 72 -29790848
-
-## Archived Dates
-- 05-12-2021
 
 ## Description
 In March of 2021, the players Vhcvssc and Willow0092 decided to create a base together.\
@@ -50,6 +49,13 @@ After months of the base having no progress, it started to fall apart. Since the
 But the real nail in the coffin of Atrium was when members began fighting. This ultimately led to it being griefed by 10K10K, known as one of the server's biggest Griefers.\
 \
 Though Atrium was great, Zoe Corp went on to create many more great bases.
+
+## Tags
+- Hateful Content
+- Missing Archivals
+- Est.: 03/2021
+- Icon: obsidian
+- Glint
 
 ## Sources
 - supersilver230 (taken from [his video](https://www.youtube.com/watch?v=UpWjITVjIzI "his video"), slightly modified transcript)

@@ -26,15 +26,20 @@ Griefed
 - World: Overworld
 - Position: 334104 60 329747
 
-## Archived Dates
-- 10-10-2021
-- 04-21-2024
-
 ## Description
 Part of a series of space valkria themed museums, this being the 3rd one that Alex built; The majority of the active playerbase at the time had a presence here.
 
 ## Additional Info
-The base was built 1/21/21. Any super illegals found in the base were brought there in their reverted form (Pink Illegals, 32ks, etc), but some of the older illegals that revert nowadays (bed furnaces, armor furnaces, no hitdelay swords) were here. Unfortunately, the base was griefed so they are no longer where they used to be.
+The base was built 01/21/2021. Any super illegals found in the base were brought there in their reverted form (Pink Illegals, 32ks, etc), but some of the older illegals that revert nowadays (bed furnaces, armor furnaces, no hitdelay swords) were here. 
+Unfortunately, the base was griefed so they are no longer where they used to be.
+
+## Tags
+- Explicit Content
+- Has Container Data
+- Has Entity Data
+- Est.: 01/21/2021
+- Icon: bookshelf
+- Glint
 
 ## Sources
 - Alex (original info)
