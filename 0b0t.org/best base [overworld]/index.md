@@ -17,4 +17,8 @@ Griefed
 
 ## Description
 
+## Tags
+- Incomplete Information
+- Missing Archivals
+
 ## Sources
