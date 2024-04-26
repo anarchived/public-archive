@@ -16,7 +16,8 @@
 - macecan
 - ParanomalShrimp
 - Futur5
-- Visited By -
+
+## Visitors
 - 0bOp
 - Synio
 - PayTheParrot
@@ -33,6 +34,12 @@ Griefed
 
 ## Additional Info
 The base was griefed by GoogleComStuff, due to apparently - one of his friends being doxed by an 8town member? It's thought that the player that was doxed was futur5, as the base was griefed no more then 2 days after they were invited. Griefed august 2nd 2023.
+
+## Tags
+- Explicit Content
+- Hateful Content
+- Missing Archivals
+- Est.: 07/25/2023
 
 ## Sources
 - antonymph
