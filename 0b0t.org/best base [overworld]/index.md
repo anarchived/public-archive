@@ -20,5 +20,6 @@ Griefed
 ## Tags
 - Incomplete Information
 - Missing Archivals
+- Icon: glowstone
 
 ## Sources
