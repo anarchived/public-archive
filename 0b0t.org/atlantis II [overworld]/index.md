@@ -19,5 +19,6 @@ Griefed
 ## Tags
 - Est.: 07/2020
 - Incomplete Information
+- Missing Archivals
 
 ## Sources
