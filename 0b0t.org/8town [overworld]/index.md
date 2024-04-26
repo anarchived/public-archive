@@ -41,6 +41,8 @@ The base was griefed by GoogleComStuff, due to apparently - one of his friends b
 - Has Entity Data
 - Missing Archivals
 - Est.: 07/25/2023
+- Icon: orange_wool
+- Glint
 
 ## Sources
 - antonymph
