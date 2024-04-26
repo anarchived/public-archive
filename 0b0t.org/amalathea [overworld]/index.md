@@ -17,7 +17,7 @@ Griefed
 - Position: -5216556.5 91 4370524.5
 
 ## Description
-A base founded by Thori on 8/31/2021. The base was griefed by xPRITZKERx in 2022 due to personal drama.
+A base founded by Thori on 08/31/2021. The base was griefed by xPRITZKERx in 2022 due to personal drama.
 
 ## Sources
 - Thori
