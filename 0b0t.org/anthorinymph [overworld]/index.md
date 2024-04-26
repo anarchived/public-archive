@@ -21,6 +21,7 @@ This is the spot where antonymph's ic backdoor occurred, and was built around 30
 ## Tags
 - Has Entity Data
 - Has Container Data
+- Icon: pink_glazed_terracotta
 
 ## Sources
 - crayne
