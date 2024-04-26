@@ -30,7 +30,14 @@ Griefed
 Part of a series of space valkria themed museums, this being the 3rd one that Alex built; The majority of the active playerbase at the time had a presence here.
 
 ## Additional Info
-The base was built 01/21/2021. Any super illegals found in the base were brought there in their reverted form (Pink Illegals, 32ks, etc), but some of the older illegals that revert nowadays (bed furnaces, armor furnaces, no hitdelay swords) were here. Unfortunately, the base was griefed so they are no longer where they used to be.
+The base was built 01/21/2021. Any super illegals found in the base were brought there in their reverted form (Pink Illegals, 32ks, etc), but some of the older illegals that revert nowadays (bed furnaces, armor furnaces, no hitdelay swords) were here. 
+Unfortunately, the base was griefed so they are no longer where they used to be.
+
+## Tags
+- Explicit Content
+- Has Container Data
+- Has Entity Data
+- Est.: 01/21/2021
 
 ## Sources
 - Alex (original info)
