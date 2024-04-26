@@ -1,9 +1,9 @@
 # Atlantis II
 
 ## Members
+- 20t (Founder)
 - arraignment
 - zoom8
-- 20t
 - Dexter\_\_\_
 - wfaoie
 
@@ -15,5 +15,9 @@ Griefed
 - Position: -29753284 72 5423871
 
 ## Description
+
+## Tags
+- Est.: 07/2020
+- Incomplete Information
 
 ## Sources
