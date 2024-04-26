@@ -22,7 +22,7 @@
 - PayTheParrot
 
 ## Status
-- Griefed
+Griefed
 
 ## Location
 - World: Overworld
