@@ -1,8 +1,10 @@
 # n0pf0x Randar Location
 
 ## Members
+- pcm1k (n0pf0x) / bluejay173
 
 ## Status
+- intact (?)
 
 ## Location
 - World: Overworld
@@ -11,7 +13,10 @@
 ## Archived Dates
 
 ## Description
+- like 12 blocks with a lilypad that was used to do the RANDAR exploit on 0b for about a year.
 
 ## Additional Info
+- had been RANDAR'ing since april 5th 2023.
 
 ## Sources
+- antonymph
