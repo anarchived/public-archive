@@ -21,20 +21,17 @@
 - ~~\_CrunchyRoll_~~
 
 ## Status
-- griefed
+Griefed
 
 ## Location
 - World: Overworld 
 - Position: 8478.5 71 -1650.5
 
-## Archived Dates
-- 04/19/2024
-
 ## Description
-- a memorial too BlackMagickian, who has committed suicide a couple of days prior.
+A memorial for BlackMagickian, who has committed suicide a couple of days prior.
 
 ## Additional Info
-- a book was written with everyone who was present signing it
+A book was written with everyone who was present signing it.
 
 ## Sources
 - antonymph
