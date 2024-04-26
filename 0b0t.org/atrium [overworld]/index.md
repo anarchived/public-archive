@@ -29,9 +29,6 @@ Griefed
 - World: Overworld
 - Position: 29869921 72 -29790848
 
-## Archived Dates
-- 05-12-2021
-
 ## Description
 In March of 2021, the players Vhcvssc and Willow0092 decided to create a base together.\
 They invited the players NIGHTRUNNER_ and supersilver230 and started working. Soon, it became the main base for the now defunct group Zoe Corp. With many core members being invited, construction was fast.\
