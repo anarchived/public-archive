@@ -36,6 +36,7 @@ A book was written with everyone who was present signing it.
 
 ## Tags
 - Missing Archivals
+- Has Entity Data
 - Icon: chiseled_stone_bricks
 - Glint
 
