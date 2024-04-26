@@ -22,15 +22,11 @@
 - PayTheParrot
 
 ## Status
-- griefed
+- Griefed
 
 ## Location
 - World: Overworld
 - Position: -5242433 69 4512629
-
-## Archived Dates
-- 7/29/2023
-- 7/31/2023
 
 ## Description
 - 8town was a base founded by BlxckFalcon and atpYT, it was a based that consisted of every single big name / cool person who ever played the server 8b8t.xyz. The base was a mishmash of random ass schematics and world downloads, inspired by star gazers.
