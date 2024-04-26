@@ -21,6 +21,7 @@ This was griefed to create a bigger base.
 ## Tags
 - Has Container Data
 - Missing Archivals
+- Icon: cobblestone
 
 ## Sources
 - Liketinos2341
