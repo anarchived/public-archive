@@ -20,5 +20,6 @@ Griefed
 - Est.: 07/2020
 - Incomplete Information
 - Missing Archivals
+- Icon: dark_prismarine
 
 ## Sources
