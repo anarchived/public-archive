@@ -54,6 +54,8 @@ Though Atrium was great, Zoe Corp went on to create many more great bases.
 - Hateful Content
 - Missing Archivals
 - Est.: 03/2021
+- Icon: obsidian
+- Glint
 
 ## Sources
 - supersilver230 (taken from [his video](https://www.youtube.com/watch?v=UpWjITVjIzI "his video"), slightly modified transcript)
