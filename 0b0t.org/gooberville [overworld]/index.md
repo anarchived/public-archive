@@ -5,6 +5,12 @@
 - vaporii
 - xdtimetoaster
 - freelees
+- Kepterv
+- _Lostforreal_
+- thiswinter
+- evergreenout
+- GrandmasterGrey
+- lmagineautism
 
 ## Status
 - griefed
