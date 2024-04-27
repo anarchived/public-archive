@@ -16,6 +16,7 @@
 - Thoriiii
 - DirtyFoxx
 - Miiver
+- zt8
 
 ## Status
 - griefed
