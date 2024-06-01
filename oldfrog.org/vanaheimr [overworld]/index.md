@@ -34,5 +34,5 @@ Most of the builds at the base are from schematics and the only original build i
 - Has Container Data
 
 ## Sources
-- (The Reddit post)[https://www.reddit.com/r/oldfagdotorg/comments/14nf66z/vanaheimr_has_fallen/ "The reddit post"]
+- [The Reddit post](https://www.reddit.com/r/oldfagdotorg/comments/14nf66z/vanaheimr_has_fallen/ "The reddit post")
 - NinjaOverSurge (WDL)
