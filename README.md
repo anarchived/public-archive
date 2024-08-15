@@ -1,6 +1,8 @@
 # Public Archive
 Repository of the entire anarchived public archive (wiki only, excluding region files and map data).
 
+To see all region files of the archived bases, use [this link](https://mega.nz/file/HkwyAJaC#PpoHel84T_DdIPjsCNqhu2Wvnaz3vZDHWDZBt59BYGw)
+
 # Writing information
 ```md
 # Base Name
